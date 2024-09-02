@@ -1,0 +1,6 @@
+git add - add a file to the staging area
+git commit - upload newly edited files to the repository
+git status - tells you if any files have been added, modified, etc.
+git log - a log of all commits w/ the comments, and a hash identifier
+git diff - look at the differences between a current file and its last save point
+git checkout - roll back a file to the most recent save point
